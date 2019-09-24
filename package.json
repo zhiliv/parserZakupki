@@ -1,0 +1,27 @@
+{
+  "name": "parserzakupki",
+  "version": "1.0.0",
+  "description": "Парсер сайта",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhiliv/parserZakupki.git"
+  },
+  "author": "Ivan Zhilnikov <35070562+zhiliv@users.noreply.github.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhiliv/parserZakupki/issues"
+  },
+  "homepage": "https://github.com/zhiliv/parserZakupki#readme",
+  "scripts": {
+    "start": "node index.js",
+    "doc": "documentation build -f html -o docs"
+  },
+  "dependencies": {
+    "documentation": "^12.1.2",
+    "jquery": "^3.4.1",
+    "jsdom": "^15.1.1",
+    "nickjs": "^0.3.6",
+    "q": "^1.5.1"
+  }
+}
