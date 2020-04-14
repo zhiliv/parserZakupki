@@ -3084,10 +3084,10 @@ nice-try@^1.0.4:
   resolved "https://registry.yarnpkg.com/nice-try/-/nice-try-1.0.5.tgz#a3378a7696ce7d223e88fc9b764bd7ef1089e366"
   integrity sha512-1nh45deeb5olNY7eX82BkPO7SSxR5SSYJiPTrTdFUVYwAl8CKMA5N9PjTYkHiRjisVcxcQ1HXdLhx2qxxJzLNQ==
 
-nickjs@^0.3.6:
-  version "0.3.6"
-  resolved "https://registry.yarnpkg.com/nickjs/-/nickjs-0.3.6.tgz#853fc5697cc1b192d7c441cb41d0fc47a40ae27c"
-  integrity sha512-kSsvBJXP98TSFherlrAMH3EBnd+eQDsFWOtxGv+smXPGAr3gMEiDDpvINiXxs5QwehdKDKWW8FRaTqx/WaajmA==
+nickjs@^0.3.7:
+  version "0.3.7"
+  resolved "https://registry.yarnpkg.com/nickjs/-/nickjs-0.3.7.tgz#662db1c65f120f20b98022d0c67114e560c33302"
+  integrity sha512-ztYujqPH0ePuTnnaHbtiB6lHrOERjq7oY4Yczcmf/RT9ouUpECOdd7lO0uX8/LZ1th78QFLlEyDy4dz8OeJtmg==
   dependencies:
     async "^2.5.0"
     babel-runtime "^6.23.0"
